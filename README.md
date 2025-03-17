@@ -11,7 +11,8 @@ This repository contains a simple yet efficient solution to the **Tower of Hanoi
 
 ## 🚀 How to Run  
 1️⃣ Clone this repository:  
-   ```sh  
+
+
    git clone https://github.com/yourusername/tower-of-hanoi.git  
 
 2️⃣ Navigate to the project directory:
