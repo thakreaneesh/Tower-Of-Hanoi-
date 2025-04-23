@@ -1,7 +1,3 @@
-// Hardik Sharma
-// number of moves for solving tower of hanoi with n disk = 2 power n -1
-
-
 #include <Servo.h>
 #include <Math.h>
 #define buzzer A0
