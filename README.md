@@ -41,3 +41,5 @@ Move disk 1 from A to C
 ✨ GUI-based visualization.
 ✨ Iterative (non-recursive) approach.
 ✨ Implementations in other languages.
+
+![Hanoi_gif](https://github.com/user-attachments/assets/f23271fc-05cd-4669-8a43-1c0fb6e4cde0)
