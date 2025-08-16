@@ -1,6 +1,9 @@
 # Tower of Hanoi Solver 🏗️  
 
-## 📌 Introduction  
+#
+![Hanoi_gif](https://github.com/user-attachments/assets/f23271fc-05cd-4669-8a43-1c0fb6e4cde0)
+
+# 📌 Introduction  
 This repository contains a simple yet efficient solution to the **Tower of Hanoi** puzzle, implemented using recursion. The Tower of Hanoi is a classic mathematical problem that involves moving a set of disks from one rod to another while following specific rules.  
 
 ## 🔥 Features  
@@ -41,5 +44,3 @@ Move disk 1 from A to C
 ✨ GUI-based visualization.
 ✨ Iterative (non-recursive) approach.
 ✨ Implementations in other languages.
-
-![Hanoi_gif](https://github.com/user-attachments/assets/f23271fc-05cd-4669-8a43-1c0fb6e4cde0)
